@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is DeOwl and I'm a software engineer/web developer, from Russia</h2>
+<h2 align="left">Hi! My name is DeOwl and I'm a software engineer/web developer from Russia</h2>
 
 ###
 
